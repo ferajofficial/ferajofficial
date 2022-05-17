@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @ferajofficial
-- 👀 I’m interested in ...Hacking,Development
-- 🌱 I’m currently learning ...programming languages :- JAVA, C, C++ ,Python ,
-                                                        java script,HTML,SQL,CSS
-                                                        => Android studio
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Sk FerajUddin
+- 👀 I’m interested in ...Hacking & Development
+- 🌱 I’m currently working on Flutter
+- 💞️ I’m looking to collaborate on Flutter Development
 - 📫 How to reach me ... officialferaj@gmail.com
 
 <!---
