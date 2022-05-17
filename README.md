@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Hacking & Development
 - 🌱 I’m currently working on Flutter
 - 💞️ I’m looking to collaborate on Flutter Development
-- 📫 How to reach me ... officialferaj@gmail.com
+- 📫 Reach me at ... officialferaj@gmail.com
 
 <!---
 ferajofficial/ferajofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
